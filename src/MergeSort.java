@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class problem5 {
+public class MergeSort {
 
     static void sort(String[] a, int l, int r) {
         if (r-l<=1) return;

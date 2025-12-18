@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class problem1 {
+public class Permutations {
 
     static void rec(String s, String ans, List<String> r) {
         if (s.isEmpty()) { r.add(ans); return; }

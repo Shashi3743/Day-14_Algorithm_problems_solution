@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class problem11 {
+public class TaskDeadline {
 
     static class Task {
         int deadline, minutes;

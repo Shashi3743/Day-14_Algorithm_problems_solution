@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class problem9 {
+public class GenericsSortSearch {
 
     static <T extends Comparable<T>> void sort(T[] a){
         for(int i=1;i<a.length;i++){

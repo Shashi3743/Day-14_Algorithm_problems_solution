@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class problem2 {
+public class BinarySearch {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         String[] words = new BufferedReader(new FileReader("src/words.txt"))

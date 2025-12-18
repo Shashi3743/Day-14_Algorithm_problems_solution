@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class problem8 {
+public class PrimeAnagramPalindrome {
 
     static boolean prime(int n){
         if(n<2)return false;

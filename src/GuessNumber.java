@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class problem10 {
+public class GuessNumber {
     public static void main(String[] args){
         int n=Integer.parseInt(args[0]);
         Scanner sc=new Scanner(System.in);

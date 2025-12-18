@@ -1,7 +1,7 @@
 import java.time.*;
 import java.util.*;
 
-public class problem12 {
+public class RegexMessage {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         String msg=sc.nextLine();

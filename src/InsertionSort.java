@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class problem3 {
+public class InsertionSort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] a = sc.nextLine().split(" ");
